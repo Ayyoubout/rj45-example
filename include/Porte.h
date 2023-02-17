@@ -146,9 +146,9 @@ void nature(Porte p1, Porte p2){
     }else if(somme_c == 8){
         Serial.println("croisee");
     }
-   /* else{
+    else{
         Serial.println("ni droit ni croisee");
-    }*/
+    }
 }
 
 

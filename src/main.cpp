@@ -28,9 +28,9 @@ void loop (){
   Porte1.arreter();
   nature(Porte1, Porte2);
   }
-  /* else{
+ else{
         Serial.println("ni droit ni croisee");
     }
 
-  delay(2000);*/
+  delay(2000);
 }
