@@ -2,12 +2,10 @@
 #include "Porte.h"
 
 
-//declaration des pores
-
 Porte Porte1(12, 11, 10, 9, 8, 7, 6, 5);
-Porte Porte2(13, 14, 15, 16, 17, 18, 19, 4);
+Porte Porte3(13, 14, 15, 16, 17, 18, 19, 4);
 
-//declation des tableau
+
 
 
 
